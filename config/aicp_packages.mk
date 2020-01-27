@@ -44,6 +44,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     OmniJaws
 
+# TouchGestures
+PRODUCT_PACKAGES += \
+    TouchGestures
+
 # Fonts packages
 #PRODUCT_PACKAGES += \
 #    invictrix-fonts
